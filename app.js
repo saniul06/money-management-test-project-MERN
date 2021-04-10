@@ -6,8 +6,7 @@ function t(){
 }
 
 function st(){
-    console.log('this is another function')
-    console.log('another change')
+    let s = 210;
 }
 
 function sss(){
