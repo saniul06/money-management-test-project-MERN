@@ -8,6 +8,7 @@ function t(){
 
 function st(){
     let s = 210;
+    let new = 20;
 }
 
 function sss(){
