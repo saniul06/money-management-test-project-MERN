@@ -1,21 +1,16 @@
-let a = 'i am on a';
+let a = 'i am in a';
 
-function t(){
-   let aa = 11;
-   console.log('i am t')
+function first (){
+    console.log('first')
+    console.log('i am in a')
 }
 
-function st(){
-    let s = 210;
-    console.log('i am st')
+function second(){
+    console.log('second')
+    console.log('i am in a')
 }
 
-function sss(){
-    console.log('function')
-    console.log('i am sss')
-}
-
-function abc(){
-    console.log('this fskljf')
-    console.log('i am abc')
+fucntion third(){
+    console.log('third')
+    console.log('i am in a')
 }
