@@ -12,3 +12,7 @@ function st(){
 function sss(){
     console.log('function')
 }
+
+function abc(){
+    console.log('this fskljf')
+}
