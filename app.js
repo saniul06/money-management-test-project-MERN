@@ -1,4 +1,4 @@
-let a = 10;
+let a = 'i am a';
 
 function t(){
    let aa = 11;
