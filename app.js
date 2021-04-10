@@ -16,6 +16,7 @@ function second(){
 function third(){
     console.log('third')
     console.log('i am in b')
+    console.log('i am in a branch')
 }
 
 function fourth(){
