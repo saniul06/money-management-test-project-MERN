@@ -17,4 +17,9 @@ function third(){
 
 function fourth(){
     console.log('forth')
+    console.log('i am in a')
+}
+
+function fifth(){
+    console.log('fifth')
 }
