@@ -12,7 +12,7 @@ function second(){
 
 function third(){
     console.log('third')
-    console.log('i am in a')
+    console.log('i am in a branch')
 }
 
 function fourth(){
