@@ -9,9 +9,7 @@ function first (){
     console.log('i am in a')
 }
 
-function second(){
-    console.log('second')
-}
+
 
 function third(){
     console.log('third')
