@@ -1,20 +1,13 @@
-let a = 'i am on master';
+let a = 'i am in master';
 
-function t(){
-   let aa = 11;
-   console.log('console')
-   console.log('sdfsdffd')
-   console.log('i am added')
+function first (){
+    console.log('first')
 }
 
-function st(){
-    let s = 210;
+function second(){
+    console.log('second')
 }
 
-function sss(){
-    console.log('function')
-}
-
-function abc(){
-    console.log('this fskljf')
+fucntion third(){
+    console.log('third')
 }
