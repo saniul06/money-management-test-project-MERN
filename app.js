@@ -16,8 +16,6 @@ function third(){
 }
 
 function fourth(){
-    console.log('forth')
-    console.log('i am in a')
     console.log('merged')
 }
 
