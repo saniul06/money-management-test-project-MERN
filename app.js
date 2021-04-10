@@ -16,7 +16,7 @@ function third(){
 }
 
 function fourth(){
-    console.log('merged in ')
+    console.log('merged in an app in branch a')
 }
 
 function fifth(){
