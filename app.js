@@ -10,7 +10,11 @@ function second(){
     console.log('i am in a')
 }
 
-fucntion third(){
+function third(){
     console.log('third')
     console.log('i am in a')
+}
+
+function fourth(){
+    console.log('forth')
 }
