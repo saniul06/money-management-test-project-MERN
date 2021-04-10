@@ -16,7 +16,7 @@ function third(){
 }
 
 function fourth(){
-    console.log('merged')
+    console.log('merged in app')
 }
 
 function fifth(){
