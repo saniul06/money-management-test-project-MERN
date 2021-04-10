@@ -3,9 +3,7 @@ let a = 'i am in master';
 
 
 
-function second(){
-    console.log('second')
-}
+
 
 function third(){
     console.log('third')
