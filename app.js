@@ -2,7 +2,7 @@ let a = 'i am on a';
 
 function t(){
    let aa = 11;
-   console.log('console')
+   console.log('i am t')
 }
 
 function st(){
