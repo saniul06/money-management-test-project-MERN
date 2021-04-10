@@ -15,11 +15,11 @@ function second(){
 
 function third(){
     console.log('third')
-    console.log('i am in a')
+    console.log('i am in b')
 }
 
 function fourth(){
-    console.log('merged in a ')
+    console.log('merged in b ')
 }
 
 function fifth(){
