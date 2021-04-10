@@ -1,7 +1,8 @@
-let a = 10;
+let a = 'i am on a';
 
 function t(){
    let aa = 11;
+   console.log('this is a')
 }
 
 function st(){
