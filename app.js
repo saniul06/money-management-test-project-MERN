@@ -19,7 +19,7 @@ function third(){
 }
 
 function fourth(){
-    console.log('merged in ')
+    console.log('merged in a ')
 }
 
 function fifth(){
