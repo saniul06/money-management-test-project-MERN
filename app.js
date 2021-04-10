@@ -7,4 +7,9 @@ function t(){
 
 function st(){
     console.log('this is another function')
+    console.log('another change')
+}
+
+function sss(){
+    console.log('function')
 }
