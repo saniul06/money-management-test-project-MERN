@@ -3,6 +3,7 @@ let a = 'i am in master';
 function first (){
     console.log('first')
 let a = 'i am in a';
+}
 
 function first (){
     console.log('first')
