@@ -26,3 +26,7 @@ function fourth(){
 function fifth(){
     console.log('fifth')
 }
+
+function newa(){
+    console.log('nesa file')
+}
