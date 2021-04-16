@@ -40,3 +40,5 @@ var ano1 = "another in b"
 var last = "in b"
 
 var final = 'finally in b'
+
+let va = "sfsf"
