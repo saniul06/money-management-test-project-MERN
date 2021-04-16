@@ -30,3 +30,5 @@ function fifth(){
 function newa(){
     console.log('nesa file')
 }
+
+var a = "new variable in origin b"
