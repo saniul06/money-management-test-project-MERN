@@ -38,3 +38,5 @@ var another = "another variable in b"
 var ano1 = "another in b"
 
 var last = "in b"
+
+var finally = 'finally in b'
