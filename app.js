@@ -34,3 +34,5 @@ function newa(){
 var a = "new variable in origin b"
 
 var another = "another variable in b"
+
+var ano1 = "another in b"
