@@ -32,3 +32,5 @@ function newa(){
 }
 
 var a = "new variable in origin b"
+
+var another = "another variable in b"
